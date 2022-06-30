@@ -1,11 +1,12 @@
 void main() {
   String massege = 'Salom';
-  print(text(massege));
+  String talk = 'salim';
+  print(text(talk));
 }
 
 String text(String text) {
   String ans = '';
-  if (text == 'Salom') {
+  if (text == 'Salom' || text == "salom" || text == "salim") {
     ans = 'alik baraka top bolam!';
   }
   return ans;
