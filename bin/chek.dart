@@ -1,7 +1,7 @@
 import 'dart:async';
 
 void main() {
-  double coffee = 18990.00;
+  double coffee = 21000.00;
   double cola = 9990.00;
   double dona = 2.00;
   double cona = 3.00;
